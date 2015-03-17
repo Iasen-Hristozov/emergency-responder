@@ -20,6 +20,7 @@ import android.widget.Spinner;
 
 public class AutoResponder extends Activity
 {
+   // test
    Spinner respondForSpinner;
    CheckBox locationCheckBox;
    EditText responseTextBox;
