@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<!--   <CheckBoxPreference -->
+<!--     android:key="PREF_AUTO_UPDATE" -->
+<!--     android:title="Auto refresh" -->
+<!--     android:summary="Select to turn on automatic updating"  -->
+<!--     android:defaultValue="true" -->
+<!--   />                         -->
+  <ListPreference
+   android:key="PREF_SHOW_SONG"
+   android:title="Show song"
+   android:summary="Change the way song is shown"
+   android:entries="@array/song_show_options"
+   android:entryValues="@array/song_show_values"
+   android:dialogTitle="Show chords"
+   android:defaultValue="1"
+  />
+  <ListPreference
+   android:key="PREF_SHOW_CHORDS"
+   android:title="Show chords"
+   android:summary="Change the way chords are shown"
+   android:entries="@array/chords_show_options"
+   android:entryValues="@array/chords_show_values"
+   android:dialogTitle="Show chords"
+   android:defaultValue="0"
+  />
+  <ListPreference
+   android:key="PREF_TEXT_SIZE"
+   android:title="Text size"
+   android:summary="Text size"
+   android:entries="@array/text_size_options"
+   android:entryValues="@array/text_size_values"
+   android:dialogTitle="Text size"
+   android:defaultValue="16"
+  />
+</PreferenceScreen>

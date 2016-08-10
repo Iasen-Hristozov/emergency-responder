@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song title = "Антонина" author = "ДДТ" language = "ru">
+   <chords>
+      <chords-verse id = "1">
+         <chords-line>
+            <chord name = "Em" pos = "3" />
+            <chord name = "C" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "Am" pos = "3" />
+            <chord name = "H7" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "Em" pos = "3" />
+            <chord name = "C" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "D" pos = "3" />
+            <chord name = "G" pos = "7" />
+         </chords-line>
+      </chords-verse>
+
+      <chords-verse id = "2">
+         <chords-line>
+            <chord name = "C" pos = "3" />
+            <chord name = "D" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "G" pos = "3" />
+            <chord name = "C" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "Am" pos = "3" />
+            <chord name = "H" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "Em" pos = "3" />
+            <chord name = "E7" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "C" pos = "3" />
+            <chord name = "D" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "G" pos = "3" />
+            <chord name = "C" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "Am" pos = "3" />
+            <chord name = "H" pos = "7" />
+         </chords-line>
+         <chords-line>
+            <chord name = "Em" pos = "3" />
+         </chords-line>
+      </chords-verse>
+
+   </chords>
+
+   <text>
+      <text-verse id-chords-verse = "1">
+         <text-line>Антонина обернулась,</text-line>
+         <text-line>Убежала, улетела,</text-line>
+         <text-line>На мгновенье распахнулось</text-line>
+         <text-line>Небо и сгорело тело</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "2">
+         <text-line>Антонина, Антонина,</text-line>
+         <text-line>Ночь кряхтит как злая мина</text-line>
+         <text-line>Наступила, оглянулась</text-line>
+         <text-line>В это время не вернулась</text-line>
+         <text-line>Антонина, Антонина,</text-line>
+         <text-line>Ночь не спит, как злая мина</text-line>
+         <text-line>Наступила, оглянулась</text-line>
+         <text-line>В это время не вернулась</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "1">
+         <text-line>Антонина - муж да дети</text-line>
+         <text-line>Чья судьба в тебя вцепилась</text-line>
+         <text-line>Красота на этом свете</text-line>
+         <text-line>Оглянулась и разбилась</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "2">
+         <text-line>Впрочем не было свободы</text-line>
+         <text-line>Обернись и ты прохожий,</text-line>
+         <text-line>Тает снег, дороги-годы</text-line>
+         <text-line>Антонина мы похожи.</text-line>
+         <text-line>Впрочем не было свободы</text-line>
+         <text-line>Обернись и ты прохожий,</text-line>
+         <text-line>Тает снег, дороги-годы</text-line>
+         <text-line>Антонина мы похожи.</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "1">
+         <text-line>Осторожно губ коснулись</text-line>
+         <text-line>Сдули пыль и паутину</text-line>
+         <text-line>И рассыпалась рутина</text-line>
+         <text-line>Антонина ты проснулась</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "2">
+         <text-line>На неведомой планете</text-line>
+         <text-line>На восторженом вокзале</text-line>
+         <text-line>Антонине крылья эти</text-line>
+         <text-line>Все про счастье рассказали.</text-line>
+         <text-line>На неведомой планете</text-line>
+         <text-line>На восторженом вокзале</text-line>
+         <text-line>Антонине крылья эти</text-line>
+         <text-line>Все про счастье рассказали.</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "1">
+         <text-line>Антонина обернулась,</text-line>
+         <text-line>Убежала, улетела,</text-line>
+         <text-line>На мгновенье распахнулось</text-line>
+         <text-line>Небо и сгорело тело</text-line>
+      </text-verse>
+
+      <text-verse id-chords-verse = "2">
+         <text-line>Антонина, Антонина,</text-line>
+         <text-line>Ночь ворчит как злая мина</text-line>
+         <text-line>Наступила, оглянулась</text-line>
+         <text-line>В это время не вернулась</text-line>
+         <text-line>Антонина, Антонина,</text-line>
+         <text-line>Ночь не спит как злая мина</text-line>
+         <text-line>Наступила, оглянулась</text-line>
+         <text-line>В это время не вернулась</text-line>
+      </text-verse>
+
+   </text>
+</song>
