@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="song_show_options">
+      <item >Pages</item>
+      <item >Scroll</item>
+  </string-array><string-array name="song_show_values">
+      <item >1</item>
+      <item >2</item>
+  </string-array><string-array name="chords_show_options">
+    <item>None</item>
+    <item>All on the right</item>
+    <item>Verse related on the right</item>
+    <item>Over the verse</item>
+  </string-array>
+
+  <string-array name="chords_show_values">
+    <item>1</item>
+    <item>0</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+
+  <string-array name="text_size_options">
+    <item>10</item>
+    <item>12</item>
+    <item>14</item>
+    <item>16</item>
+    <item>18</item>
+    <item>20</item>
+    <item>22</item>
+    <item>24</item>
+  </string-array>
+
+  <string-array name="text_size_values">
+    <item>10</item>
+    <item>12</item>
+    <item>14</item>
+    <item>16</item>
+    <item>18</item>
+    <item>20</item>
+    <item>22</item>
+    <item>24</item>
+  </string-array>
+  
+  
+</resources>

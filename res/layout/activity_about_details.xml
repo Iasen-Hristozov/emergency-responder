@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <ScrollView
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:background="@android:color/white" >
+
+      <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+         android:layout_marginTop="10dp"
+         android:background="@android:color/darker_gray"
+         android:orientation="vertical" >
+
+         <LinearLayout
+            android:id="@+id/llAppVersion"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="vertical" >
+
+            <TextView
+               android:id="@+id/tvAppVetsionLabel"
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:background="@android:color/transparent"
+               android:text="@string/abt_app_version"
+               android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+               android:id="@+id/tvAppVersion"
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginBottom="1dp"
+               android:text="@string/smp_abt_vrs"
+               android:textAppearance="?android:attr/textAppearanceSmall" />
+         </LinearLayout>
+
+         <LinearLayout
+            android:id="@+id/llAppReleaseDateTime"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@android:color/white"
+            android:orientation="vertical" >
+
+            <TextView
+               android:id="@+id/tvAppReleaseDateTimeLabel"
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:text="@string/abt_app_rls_dt_tm"
+               android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+               android:id="@+id/tvAppReleaseDateTime"
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginBottom="1dp"
+               android:text="@string/smp_abt_rls_date"
+               android:textAppearance="?android:attr/textAppearanceSmall" />
+         </LinearLayout>
+
+      </LinearLayout>
+</ScrollView>
